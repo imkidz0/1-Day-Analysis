@@ -16,7 +16,7 @@ All research is conducted in isolated environments for educational purposes.
 
 | CVE ID | Title | Type | CVSS | Date | Blog Post |
 |--------|-------|------|------|------|-----------|
-| [CVE-2021-3156](./CVE-2021-3156) | Sudo Baron Samedit | Heap Overflow | 7.8 | 2021-01 | [Read Analysis →](YOUR_BLOG_LINK) |
+| [CVE-2021-3156](./CVE-2021-3156) | Sudo Baron Samedit | Heap Overflow | 7.8 | 2021-01 | [Read Analysis →](https://kidz0.tistory.com) |
 
 ## Repository Structure
 ```
